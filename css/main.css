@@ -1,0 +1,41 @@
+div {
+  width: 500px;
+  height: 250px;
+  padding: 1px;
+  display:inline-block;
+}
+
+#one {
+  background-color: #eb886f;
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  box-sizing: border-box;
+}
+#two {
+  background-color: yellowgreen;
+  border: 3px solid #2a9d8f;
+  border-radius: 10px;
+  padding-left: 20px;
+}
+#three {
+  background-color: #e9c46a;
+  border-width: 3px;
+  border-color: black;
+  border-style: dotted;
+  box-sizing: border-box;
+}
+
+img {
+  width: 500px;
+  border-radius: 50%;
+  border: 5px solid rgb(236, 183, 191);
+}
+.card {
+  border: 1px solid;
+  border-color: rgb(211, 211, 211);
+  width: 510px;
+  height: 600px;
+  border-radius: 5px;
+  text-align: center;
+}
